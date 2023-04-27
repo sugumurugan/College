@@ -1,0 +1,37 @@
+.tag {
+overflow: hidden;
+background:radial-gradient(100% 100% at 100% 0%,#89E5FF 0%,yellow 100%);
+height: 40pt;
+border-radius:5px;
+}
+.tag a{
+	float: left;
+	color: red;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 25px;
+}
+.h1 {
+	background:radial-gradient(100% 100% at 100% 0%,#89E5FF 0%,gray 100%);
+	height:80pt;
+	border-radius:25px;
+	text-shadow:5px 5px 5px white;
+    
+}
+ol {
+	list-style-type:none;
+	margin:0;
+	padding:0;
+	overflow:hidden;
+}
+.bdy {
+	background:url('porter-raab-gnj9vj--FRY-unsplash.jpg');
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+body {
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+
